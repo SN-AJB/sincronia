@@ -23,7 +23,7 @@ export async function initCommands() {
       refreshCommand
     )
     .command(
-      ["push [target]"],
+      ["push [targessdssdsdst]"],
       "[DESTRUCTIVE] Push all files from current local files to ServiceNow instance.",
       cmdArgs => {
         cmdArgs.options({
